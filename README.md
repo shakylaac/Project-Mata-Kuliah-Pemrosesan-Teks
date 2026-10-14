@@ -1,4 +1,4 @@
-# SISTEM DETEKSI TEKS BUATAN AI MENGGUNAKAN METODE NATURAL LANGUAGE PROCESSING
+# Sistem Deteksi Teks Buatan AI Menggunakan Metode Natural Language Processing
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mengembangkan sistem yang dapat mendeteksi apakah suatu teks ditulis oleh manusia atau dihasilkan oleh Artificial Intelligence (AI). Sistem memanfaatkan metode Natural Language Processing (NLP) untuk mengolah dan menganalisis teks berdasarkan karakteristik bahasa yang terdapat di dalamnya.
