@@ -1,15 +1,20 @@
 # Sistem Deteksi Teks Buatan AI Menggunakan Metode Natural Language Processing
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk mengembangkan sistem yang dapat mendeteksi apakah suatu teks ditulis oleh manusia atau dihasilkan oleh Artificial Intelligence (AI). Sistem memanfaatkan metode Natural Language Processing (NLP) untuk mengolah dan menganalisis teks berdasarkan karakteristik bahasa yang terdapat di dalamnya.
-Melalui proyek ini, dilakukan pengolahan teks dan penerapan metode pemrosesan bahasa alami sebagai bagian dari proses identifikasi teks buatan AI. Proyek ini merupakan penerapan kecerdasan artifisial dalam analisis teks.
+Proyek ini bertujuan untuk mengembangkan sistem yang dapat mendeteksi apakah suatu teks ditulis oleh manusia atau dihasilkan oleh Artificial Intelligence (AI). Sistem memanfaatkan metode Natural Language Processing (NLP) untuk mengolah dan menganalisis teks berdasarkan karakteristik bahasa yang terdapat di dalamnya. Melalui proyek ini, dilakukan pengolahan teks dan penerapan metode pemrosesan bahasa alami sebagai bagian dari proses identifikasi teks buatan AI. Proyek ini merupakan penerapan kecerdasan artifisial dalam analisis teks.
+
+## Dataset
+- **Nama Dataset:** HC3 (Human ChatGPT Comparison Corpus)
+- **Sumber:** [Hugging Face – Hello-SimpleAI/HC3](https://huggingface.co/datasets/Hello-SimpleAI/HC3)
+- **Deskripsi:** Dataset HC3 berisi kumpulan jawaban dari manusia dan ChatGPT yang dapat digunakan untuk mempelajari perbedaan karakteristik teks berdasarkan sumber pembuatannya.
+- **Tujuan Penggunaan:** Dataset digunakan sebagai sumber data untuk mendukung proses pengolahan teks, ekstraksi fitur, serta pengembangan dan pengujian sistem deteksi teks buatan AI.
 
 ## Metode yang Digunakan
 Metode utama yang digunakan adalah Natural Language Processing (NLP), yaitu pendekatan dalam kecerdasan artifisial yang memungkinkan komputer memproses dan menganalisis bahasa manusia. Metode ini digunakan untuk membantu sistem mengenali karakteristik teks yang dapat digunakan dalam proses deteksi.
 
 ## Alur Pengerjaan
 1. **Memuat Dataset**  
-   Menyiapkan data teks yang digunakan dalam proses pengembangan sistem deteksi.
+   Menyiapkan data teks dari dataset HC3 yang digunakan dalam proses pengembangan sistem deteksi.
 2. **Preprocessing Teks**  
    Melakukan pengolahan awal teks agar data lebih terstruktur dan siap dianalisis.
 3. **Ekstraksi Fitur**  
